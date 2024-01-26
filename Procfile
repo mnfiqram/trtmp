@@ -1,1 +1,1 @@
-worker: bash scripts/run.heroku.sh
+Dockerfile: Dockerfile
